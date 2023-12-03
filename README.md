@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 ![Gsap](https://img.shields.io/badge/gsap-%236DB33F.svg?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![ASPNetCore](https://img.shields.io/badge/ASP%20Net%20Core-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![EntityFrameworkCore](https://img.shields.io/badge/Entity%20Framework%20Core-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/%20C%20sharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
